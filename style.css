@@ -1,0 +1,190 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI;
+}
+.tab1 {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #316dc3;
+  padding: 0.7%;
+  width: 100%;
+}
+.tab1 td {
+  color: white;
+}
+
+.social img {
+  margin-left: 2%;
+}
+.fb:hover {
+  background-color: #2980b9;
+  border-radius: 3px;
+}
+button {
+  padding: 1% 2%;
+  color: #427900;
+}
+
+#home {
+  margin-left: 220px;
+  margin-top: 20px;
+}
+#saylanilogo {
+  margin-left: 50px;
+}
+.Navigationbar {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.Navigationbar a {
+  text-decoration: none;
+  padding: 5px;
+}
+.Navigationbar li {
+  display: inline;
+  list-style: none;
+}
+
+.Navigationbar a:hover {
+  border-radius: 10px;
+  border: 1px solid #316dc3;
+  background-color: #316dc3;
+  color: white;
+}
+#Newsheadline {
+  background-color: #316dc3;
+  padding: 1px;
+  margin-left: 230px;
+  margin-right: 230px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#IntroductionHeading {
+  margin: 10px;
+  font: 60px;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+#HeadingBlue {
+  color: #316dc3;
+}
+
+#HeadingGreen {
+  color: #427900;
+}
+.p {
+  margin: 1% 15%;
+  color: #666666;
+}
+
+#Headlinewords {
+  width: 120px;
+}
+.tab2
+{
+	width: 100%;
+	background-color: #316DC3;
+	color: white;
+	padding: 5%;
+	font-family: "Times New Roman";
+	font-size: 25px;
+	text-align: center;
+}
+.dtl
+{
+	font-size: 18px;
+}
+.amnt
+{
+	font-size: 50px;
+}
+.tab3
+{
+	color: #316DC3;
+	width: 100%;	
+	padding: 5%;
+	font-family: "Times New Roman";
+	font-size: 25px;
+  text-align: center;
+  border-collapse: separate;
+  border-spacing: 50px 50px;
+}
+.tab3 td
+{
+
+	width: 5%;
+	border: 1px solid white;
+	padding: 3% 2%;
+	margin: 5% 5%;
+	box-shadow: 0px 2px 8px 5px #D7DBDD;
+	background-color: white;
+
+}
+
+.tab4
+{
+	color: #316DC3;
+	width: 100%;	
+	padding: 5%;
+	font-family: "Times New Roman";
+	font-size: 25px;
+
+}
+.tab4
+{
+	border-collapse: separate;
+    border-spacing: 30px 30px;		
+    font-weight: bold;
+
+}
+.rw
+{
+
+	border:1px solid #D7DBDD;
+	width: 20%;
+	padding: 2% 2%;
+	font-family: "Times New Roman";
+	font-size: 18px;
+	text-align: left;
+	background-color: #F2F2F2;
+	font-weight: bold;
+	box-shadow: 0px 2px 8px 5px #D7DBDD;
+}
+.evnt
+{
+	    font-weight: normal;
+	width: 30%;
+	font-size: 16px;
+	padding: 0% 10% 2% 0%;
+	text-align: justify;
+	color: black;
+}
+.div2
+{
+  display: inline;
+  margin-left: 20%;
+}
+
+.div3
+{
+	padding: 3% 7%;
+	background-color: #25272E;
+	color: white;
+}
+.social1 img
+{	
+	padding: 2% 2%;
+	background-color: #316DD9;
+  border-radius: 50%;
+  
+}
+
+.footerline
+{
+	background-color: #316DD9;
+	color: white;
+	padding: 1% 1%;
+	
+}
